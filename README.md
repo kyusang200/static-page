@@ -1,1 +1,3 @@
 # static-page
+*italic*  
+**bold**
