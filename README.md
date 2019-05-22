@@ -1,5 +1,3 @@
-# 제목
+# Static Page
 --------
->*인용문*
->>*__인용문2__*
-[네이버](https://www.naver.com)
+<https://steampowered.com>
